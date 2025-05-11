@@ -1,5 +1,5 @@
 
-# !00xdevs mini solana hackathon
+# 100xdevs mini solana hackathon
 
 ## AI NFT GENERATOR
 Generate NFTs just with few clicks
@@ -20,7 +20,7 @@ of that image.
 
 ### Clone project 
 ```
-git clone https://github.com/itsabhay83/100x_mini_solana.git
+git clone https://github.com/itsabhay83/100xdevs_mini_solana.git
 ```
 
 ### Front End
